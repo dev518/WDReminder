@@ -1,0 +1,3 @@
+rootProject.name = 'WDReminder'
+
+include ':app'
